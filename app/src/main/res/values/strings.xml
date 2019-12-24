@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="btnShuffle">Feeling Lucky?</string>
+    <string name="lblHeader">Making Everyday Decisions Easier</string>
 </resources>
